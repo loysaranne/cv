@@ -17,8 +17,9 @@ puh    -  044 3131 115
 
 ## Technologies
 - Angular / AngularJS
+- Vuejs
 - RxJS
-- Jasmine
+- Jasmine / Jest
 - NPM
 - Git
 - CMS (various)
@@ -30,9 +31,15 @@ puh    -  044 3131 115
 
 ## Work Experience
 ```
+Logmore Ltd
+   Software Developer
+   2020 -
+```
+
+```
 Enerkey
     Software Developer
-    2019 -
+    2019 - 2020
 ```
 
 ```
