@@ -19,6 +19,7 @@ puh    -  044 3131 115
 - Angular / AngularJS
 - Vuejs
 - RxJS
+- Axios
 - Jasmine / Jest
 - NPM
 - Git
@@ -33,7 +34,7 @@ puh    -  044 3131 115
 ```
 Logmore Ltd
    Software Developer
-   2020 -
+   2020 - 2022
    
    Working on a project to renew cloud application to one page Vue app.
    Planning the architecture of the new frontend system. Creating new
