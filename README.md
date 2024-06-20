@@ -9,19 +9,19 @@ puh    -  044 3131 115
 ```
 
 ## Skills
-- HTML 5.0
-- JavaScript
-- TypeScript
+- HTML
+- JavaScript / Typescript
 - CSS / SASS / LESS
 - PHP
 
 ## Technologies
-- Angular / AngularJS
-- Vuejs
+- Angular
+- Vue
+- React
 - RxJS
 - Axios
 - Jasmine / Jest
-- NPM
+- NodeJS / NPM
 - Git
 - CMS (various)
 
@@ -30,7 +30,37 @@ puh    -  044 3131 115
 - Clean code
 - Game Design & Development
 
+## Languages
+- Finnish - Native
+- English - Professional
+
+## Personal traits
+- Ability to work alone or in teams
+- If I think something should be done in some other way, I'll let you know
+- Fast learner and I like to improve my skills
+- I like to have stickers on my laptops
+
 ## Work Experience
+```
+Meiko Oy
+	Senior Software Developer
+	2024 - 2024
+	
+	I worked as a Frontend software consultant for our client.
+    I was responsible for the development of a client prospecting
+    systems frontend.
+```
+
+```
+Zaibatsu Interactive
+	Software Developer
+	2022 - 2023
+	
+	I worked as a Frontend software consultant for our clients. My
+	responsibilities were everything from setting up a project
+	to planning and executing CI/CD for the frontend part of it.
+```
+
 ```
 Logmore Ltd
    Software Developer
@@ -57,6 +87,8 @@ Mediataivas Oy
     
     Making new and fixing old business websites on PHP based CMS.
 ```
+
+<div class="page"/>
 
 ## Education
 
