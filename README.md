@@ -43,22 +43,22 @@ puh    -  044 3131 115
 ## Work Experience
 ```
 Meiko Oy
-	Senior Software Developer
-	2024 - 2024
+    Senior Software Developer
+    2024 - 2024
 	
-	I worked as a Frontend software consultant for our client.
+    I worked as a Frontend software consultant for our client.
     I was responsible for the development of a client prospecting
     systems frontend.
 ```
 
 ```
 Zaibatsu Interactive
-	Software Developer
-	2022 - 2023
+    Software Developer
+    2022 - 2023
 	
-	I worked as a Frontend software consultant for our clients. My
-	responsibilities were everything from setting up a project
-	to planning and executing CI/CD for the frontend part of it.
+    I worked as a Frontend software consultant for our clients. My
+    responsibilities were everything from setting up a project
+    to planning and executing CI/CD for the frontend part of it.
 ```
 
 ```
