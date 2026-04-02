@@ -54,6 +54,8 @@ Keskisuomalainen Media Oy
 	production. I have also planned our CI/CD and Terraform scripts
 	for automatic deployment and testing.
 ```
+
+```
 Meiko Oy
     Senior Software Developer
     2024 - 2024
