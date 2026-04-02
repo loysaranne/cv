@@ -11,6 +11,7 @@ puh    -  044 3131 115
 ## Skills
 - HTML
 - JavaScript / Typescript
+- Python
 - CSS / SASS / LESS
 - PHP
 
@@ -18,7 +19,8 @@ puh    -  044 3131 115
 - Angular
 - Vue
 - React
-- RxJS
+- Fastify
+- Postgres
 - Axios
 - Jasmine / Jest
 - NodeJS / NPM
@@ -29,6 +31,7 @@ puh    -  044 3131 115
 - UI / UX
 - Clean code
 - Game Design & Development
+- Ethical AI development
 
 ## Languages
 - Finnish - Native
@@ -41,6 +44,15 @@ puh    -  044 3131 115
 - I like to have stickers on my laptops
 
 ## Work Experience
+```
+Keskisuomalainen Media Oy
+	Journalistic Digital Developer
+	2025 - Present
+
+	I work as a Fullstack developer and as a Lead developer, in
+	our inhouse project. We use Claude Code as an tool in our
+	production. I have also planned our CI/CD and Terraform scripts
+	for automatic deployment and testing.
 ```
 Meiko Oy
     Senior Software Developer
