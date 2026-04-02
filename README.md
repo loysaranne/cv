@@ -1,6 +1,6 @@
 # Juho Talus
 
-***Software Developer / Frontend Developer / Web Developer***
+***Software Developer / Fullstack Developer / Web Developer***
 
 ```
 Jyväskylä
